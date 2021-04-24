@@ -1,10 +1,12 @@
-# PacMen
-PacMen Exercise:
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+PacMen
+======
+### PacMen Exercise:
 
-<img src="PacMen.gif" alt="PacMen Excercise">
+**Description:** In this exercise we go a bit retro and give PacMan a new lease in life and also get our hands into a bit of cloning so that he/it doesn't feel alone while strolling within the borders of your browser window.
+
+**Usage:** Download the code repository to you computer and load the file in your web browser. Press the `Add PacMan` button to add PacMan to the window in your browser and then press `Start Game`, then sit back and relax while the PacMan or PacMen move around your browser.
+
+**Roadmap:** Thinking off adding more charactetrs like Sticth and Doraemon...
+
+
+<img src="images/PacMen.gif" alt="PacMen Excercise">
